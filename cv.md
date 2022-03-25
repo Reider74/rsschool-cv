@@ -1,5 +1,5 @@
 # rsschool-cv 
-
+![](Panda.jpg)
 # **Volkhontsev Maksim**
 ***Junior JavaScript Frontend Developer***
 
